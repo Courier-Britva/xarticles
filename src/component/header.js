@@ -1,10 +1,6 @@
 import React from 'react';
 import './css/header.css';
-import {Link, Route, Routes } from 'react-router-dom'; 
-
-import Home from './home'; 
-import Posts from './posts';
-import Postpage from './postpage';
+import {Link} from 'react-router-dom'; 
 
 function Header() {
   return (
@@ -24,19 +20,14 @@ function Header() {
                 </Link>
               </li>
               <li className='header_link_container'>
-                <a href='#' className='header_link link'>
+              <Link to="/" className='header_link link'>
                   Publish
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
         </div>
       </div>
-        <Routes>
-            <Route path='/' element={<Home />} />
-            <Route path='/posts' element={<Posts />} />
-            <Route path="/posts/:id" element={<Postpage />} />
-        </Routes>
       </div>
   );
 }
