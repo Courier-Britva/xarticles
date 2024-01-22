@@ -9,12 +9,12 @@ body {
   background-color: #080808;
 }
 
-p{
+p, span, h1, h2, h3, h4, h5, h6{
     color: #ffffff;
 }
 
-span{
-    color: #ffffff;
+a{
+    color: #c9c9c9;
 }
 
 .link{
