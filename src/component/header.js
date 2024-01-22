@@ -21,7 +21,7 @@ function Header() {
               </li>
               <li className='header_link_container'>
               <Link to="/" className='header_link link'>
-                  Publish
+                  Log in
                 </Link>
               </li>
             </ul>
