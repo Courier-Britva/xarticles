@@ -1,0 +1,26 @@
+{
+    "the-rise-of-indie-games": {
+        "name": "The Rise of Indie Games",
+        "date": "2024-01-22",
+        "content": "Indie games have transformed the gaming landscape, introducing innovative gameplay and storytelling. Titles like 'Celeste' and 'Hollow Knight' have garnered critical acclaim, proving that small teams can deliver impactful gaming experiences. The success of indie games is often attributed to their creative freedom, focus on niche audiences, and the direct relationship between developers and players.",
+        "img": "/img/article_img_1.webp"
+    },
+    "virtual-reality-the-future": {
+        "name": "Virtual Reality: The Future",
+        "date": "2024-01-20",
+        "content": "Virtual reality (VR) is reshaping the future of gaming and entertainment. With the advent of more immersive and accessible technology, VR offers unparalleled experiences. Games like 'Half-Life: Alyx' demonstrate the potential of VR, providing players with an interactive and immersive world that was previously unimaginable.",
+        "img": "/img/article_img_2.webp"
+    },
+    "esports-global-phenomenon": {
+        "name": "eSports: A Global Phenomenon",
+        "date": "2024-01-18",
+        "content": "eSports has exploded in popularity, becoming a global phenomenon and elevating video gaming to a spectator sport. Major tournaments for games like 'League of Legends' and 'DOTA 2' attract millions of viewers and offer substantial prize pools, reflecting the growing legitimacy and scale of competitive gaming.",
+        "img": "/img/article_img_3.webp"
+    },
+    "evolution-of-gaming-graphics": {
+        "name": "Evolution of Gaming Graphics",
+        "date": "2024-01-15",
+        "content": "The evolution of gaming graphics has been staggering, with modern games offering photorealistic visuals and deeply immersive worlds. Advances in technology and game design have pushed the boundaries, enabling developers to create lifelike environments and characters that were once the realm of fantasy.",
+        "img": "/img/article_img_4.webp"
+    }
+}
