@@ -14,7 +14,7 @@
     overflow: hidden;
 }
 
-.article_content_text>p{
+.article_content_text > p {
     margin: 10px 0;
     color: #ffffff;
     max-width: 520px;

@@ -1,10 +1,9 @@
 import React from 'react';
-import './css/header.css';
-import Header from './header';
+import Header from './Header/header.js';
 import {Route, Routes } from 'react-router-dom'; 
-import Home from './home'; 
-import Posts from './posts.jsx'
-import { Article} from './article.jsx';
+import Home from './Home/home.js'; 
+import Posts from './Posts/posts.jsx'
+import { Article} from './Article/Article.jsx';
 
 function App() {
   return (
@@ -12,7 +11,7 @@ function App() {
         <Header />
         <Routes>
             <Route path='/' element={<Home />} />
-            <Route path='/posts/' element={<Posts />} />
+            <Route path='/posts' element={<Posts />} />
             <Route path="/posts/:id" element={<Article />} />
         </Routes>
     </>
